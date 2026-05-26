@@ -41,6 +41,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Web Servers](#web-servers)
   * [Workflow Automation](#workflow-automation)
 - [Development tools](#development-tools)
+- Evcode -A high-performance terminal IDE. (https://github.com/poghdev/Evcode-ide)
   * [Build system](#build-system)
   * [Debugging](#debugging)
   * [Deployment](#deployment)
