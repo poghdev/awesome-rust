@@ -41,7 +41,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Web Servers](#web-servers)
   * [Workflow Automation](#workflow-automation)
 - [Development tools](#development-tools)
-- Evcode -A high-performance terminal IDE. (https://github.com/poghdev/Evcode-ide)
   * [Build system](#build-system)
   * [Debugging](#debugging)
   * [Deployment](#deployment)
@@ -839,6 +838,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 * [delta](https://crates.io/crates/git-delta) - A syntax-highlighter for git and diff output[![build badge](https://github.com/dandavison/delta/actions/workflows/ci.yml/badge.svg)](https://github.com/dandavison/delta//actions)
 * [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - Linter for `.env` files [![build badge](https://github.com/dotenv-linter/dotenv-linter/actions/workflows/ci.yml/badge.svg)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
+*  [Evcode](https://github.com/poghdev/Evcode-ide) - A blazing-fast, asynchronous terminal IDE written in Rust with a Rope-backed engine.
 * [envio](https://github.com/humblepenguinn/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml)
 * [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - A PKM Markdown Language Server supporting Obsidian-style wikilinks, backlinks, and daily notes for Neovim, VSCode, Zed, Helix, and Kakoune
 * [Flox](https://github.com/flox/flox) - Flox is a virtual environment and package manager all in one.
